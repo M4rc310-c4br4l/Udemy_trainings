@@ -1,0 +1,8 @@
+***************************************************************************************************************
+1. Uma estrutura de um app Java permite a criação de blocos funcionais, ou seja, módulos dedicados para operações definidas que podem, ou não, ser abrigados em conteineres. Quanto a isso, quando meu app é hospedado diretamente em um server (EC2, por exemplo), isto pode significar uma operação concorrente com consumo de processamento da mesma (casos de app mais demandados)? ou há forma de disciplinar isso e reduzir a concorrência, como ocorre no Golang?
+
+
+***************************************************************************************************************
+
+
+
